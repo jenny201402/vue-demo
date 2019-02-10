@@ -1,0 +1,9 @@
+1.App 加router-link
+2.router\index.js 加     {path: '/demo',
+                       name: 'demo',
+                       component: demo,
+                     },
+  引入demo组件
+3.将demo组件引入test.vue
+
+
