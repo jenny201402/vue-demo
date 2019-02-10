@@ -1,6 +1,6 @@
-# project
+# vue-demo
 
-> last_project
+> A Vue.js project
 
 ## Build Setup
 
